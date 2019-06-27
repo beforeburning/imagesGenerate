@@ -1,0 +1,31 @@
+{
+  "sql": {
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "123456",
+    "database": "burning"
+  },
+  "classification": {
+    "1": "men",
+    "2": "children",
+    "3": "other",
+    "4": "other",
+    "27": "orthopaedic",
+    "29": "women",
+    "32": "other",
+    "35": "other",
+    "39": "other",
+    "42": "other",
+    "44": "other",
+    "48": "other",
+    "50": "other",
+    "52": "traditional",
+    "54": "other",
+    "56": "other",
+    "60": "other",
+    "10000": "other",
+    "12000": "other"
+  },
+  "concurrency": 20,
+  "record": 0
+}
